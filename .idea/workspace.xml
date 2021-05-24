@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac67609c-9e64-4280-b3b5-d062b276210f" name="Default Changelist" comment="package.json added">
-      <change afterPath="$PROJECT_DIR$/Projects/dday1/README.html" afterDir="false" />
+    <list default="true" id="ac67609c-9e64-4280-b3b5-d062b276210f" name="Default Changelist" comment="all text + links completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/1-project" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/1-project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/1-project/index-bootstrap.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/1-project/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/dday1/helping.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/dday1/helping.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/dday1/distribution.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/dday1/distribution.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/msimbo-google-clone" beforeDir="false" afterPath="$PROJECT_DIR$/msimbo-google-clone" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
       <workItem from="1621882422717" duration="195000" />
       <workItem from="1621882720987" duration="298000" />
       <workItem from="1621883486186" duration="764000" />
-      <workItem from="1621884270097" duration="2804000" />
+      <workItem from="1621884270097" duration="4014000" />
     </task>
     <task id="LOCAL-00001" summary="Complete page, no CSS">
       <created>1621864612252</created>
@@ -131,7 +130,42 @@
       <option name="project" value="LOCAL" />
       <updated>1621885979748</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="All text">
+      <created>1621887122522</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621887122522</updated>
+    </task>
+    <task id="LOCAL-00008" summary="revised text + links">
+      <created>1621887412455</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1621887412455</updated>
+    </task>
+    <task id="LOCAL-00009" summary="revised ps">
+      <created>1621887600610</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1621887600610</updated>
+    </task>
+    <task id="LOCAL-00010" summary="all text = done">
+      <created>1621887845133</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1621887845133</updated>
+    </task>
+    <task id="LOCAL-00011" summary="all text + links completed">
+      <created>1621888231565</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1621888231565</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +182,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="feat/eleasah" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -169,6 +203,11 @@
     <MESSAGE value="package.json added" />
     <MESSAGE value="added h1 + text" />
     <MESSAGE value="helping text added" />
-    <option name="LAST_COMMIT_MESSAGE" value="helping text added" />
+    <MESSAGE value="All text" />
+    <MESSAGE value="revised text + links" />
+    <MESSAGE value="revised ps" />
+    <MESSAGE value="all text = done" />
+    <MESSAGE value="all text + links completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="all text + links completed" />
   </component>
 </project>
