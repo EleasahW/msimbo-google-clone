@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac67609c-9e64-4280-b3b5-d062b276210f" name="Default Changelist" comment="all text + links completed">
+    <list default="true" id="ac67609c-9e64-4280-b3b5-d062b276210f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/1-project" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/1-project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/1-project/index-bootstrap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/1-project/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/dday1/distribution.html" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/dday1/distribution.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/dday1" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/dday1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/msimbo-google-clone" beforeDir="false" afterPath="$PROJECT_DIR$/msimbo-google-clone" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,10 +20,10 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="feat/eleasah" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Projects/dday1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -86,7 +83,8 @@
       <workItem from="1621882422717" duration="195000" />
       <workItem from="1621882720987" duration="298000" />
       <workItem from="1621883486186" duration="764000" />
-      <workItem from="1621884270097" duration="4014000" />
+      <workItem from="1621884270097" duration="6203000" />
+      <workItem from="1621948878952" duration="2018000" />
     </task>
     <task id="LOCAL-00001" summary="Complete page, no CSS">
       <created>1621864612252</created>
@@ -165,7 +163,28 @@
       <option name="project" value="LOCAL" />
       <updated>1621888231565</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="all text + links completed">
+      <created>1621888333643</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1621888333643</updated>
+    </task>
+    <task id="LOCAL-00013" summary="progress report + index.html link checks">
+      <created>1621889190400</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1621889190400</updated>
+    </task>
+    <task id="LOCAL-00014" summary="link check update">
+      <created>1621889266564</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1621889266564</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +227,9 @@
     <MESSAGE value="revised ps" />
     <MESSAGE value="all text = done" />
     <MESSAGE value="all text + links completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="all text + links completed" />
+    <MESSAGE value="progress report + index.html link checks" />
+    <MESSAGE value="link check update" />
+    <MESSAGE value="text added" />
+    <option name="LAST_COMMIT_MESSAGE" value="text added" />
   </component>
 </project>
